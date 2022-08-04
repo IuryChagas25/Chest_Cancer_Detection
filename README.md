@@ -4,7 +4,7 @@ Este é um repositório de um projeto pessoal que visa compreender mais e por em
  * Andenocarcinoma
  * Carcinoma Celular Escamoso
  * Carcinoma Celular Grande
- * Normal (na base de dados também possui pulmões saldáveis para a rede aprender a identificar)
+ * Normal (na base de dados também possui pulmões saudáveis para a rede aprender a identificar)
  
 Ao longo do notebook é possível identificar algumas técnincas de transferência de Aprendizado bem como técnicas de aumento de dados.
 
@@ -13,6 +13,6 @@ This is a repository of a personal project that aims to understand more and put 
  * Andenocarcinoma
  * Squamous Cell Carcinoma
  * Large Cell Carcinoma
- * Normal (in the database also has salable lungs for the network learn to identify)
+ * Normal (in the database also has healthy lungs for the network learn to identify)
 
 Throughout the notebook it is possible to identify some learning transfer techniques as well as data augmentability techniques.
